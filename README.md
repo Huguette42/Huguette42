@@ -3,4 +3,6 @@
 </div>
 
 <div align="center" width="50">
-
+<p>
+  I'm a high school student learning differents languages and love IT in general
+</p>
