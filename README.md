@@ -28,3 +28,5 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huguette42&layout=compact&theme=cobalt&hide_border=true" />
