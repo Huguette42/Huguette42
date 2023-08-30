@@ -7,7 +7,7 @@
   I'm a high school student learning differents languages and love IT in general
 </p>
   <div align="center" width="50">
-    <img align="center" src="https://legendary-system-gw677759p9rcvv7g-9000.app.github.dev/top-langs/?username=huguette42&layout=compact&theme=cobalt&hide_border=true%22%20/%3E" />
+<img align="center" src="https://legendary-system-gw677759p9rcvv7g-9000.app.github.dev/top-langs/?username=huguette42&layout=compact&theme=cobalt&hide_border=true%22%20/%3E" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,4 +31,3 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huguette42&layout=compact&theme=cobalt&hide_border=true" />
