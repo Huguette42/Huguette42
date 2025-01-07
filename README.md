@@ -1,35 +1,30 @@
-<div align="center">
-<h2> Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
+# 👋 Bienvenue sur mon GitHub
 
-<div align="center" width="50">
-<p>
-  I'm a high school student learning differents languages and love IT in general
-</p>
-  <div align="center" width="50">
-<img align="center" src="https://legendary-system-gw677759p9rcvv7g-9000.app.github.dev/top-langs/?username=huguette42&layout=compact&theme=cobalt&hide_border=true%22%20/%3E" />
+## Qui suis-je ?
 
-  <br/>
-  <br/>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+Je m'appelle **Hugo** et je suis actuellement étudiant en **BTS SIO** au Chartreux. Passionné par l'informatique, je me concentre sur plusieurs domaines tels que :
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>
+- 🖥️ **Systèmes et Réseaux**
+- 💾 **Bases de Données**
+- 💻 **Développement**
 
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+Je suis curieux et toujours en quête d'apprendre et de perfectionner mes compétences dans ces différents secteurs.
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-<br>
+---
+
+## 🔧 Mes compétences
+
+- **Langages de programmation :** Python, JavaScript, C#, HTML, CSS
+- **Frameworks :** Laravel, React
+- **Outils :** Docker, Git
+
+---
+
+## 📫 Me contacter
+
+- **E-mail :** [hugojeanselme@gmail.com](mailto:hugojeanselme@gmail.com)
+- **LinkedIn :** [Hugo Jeanselme](https://www.linkedin.com/in/hugo-jeanselme-15a3772ba/)
+
+---
+
+Merci pour votre visite ! 😊
